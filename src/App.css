@@ -1,0 +1,20 @@
+App {
+  text-align: center;
+}
+
+#navb {
+  text-align: center;
+  background-color: darkgray;
+}
+
+#Home {
+  margin-right: 15px;
+}
+
+#Projects {
+  margin-right: 15px;
+}
+
+#Services {
+  margin-right: 15px;
+}
